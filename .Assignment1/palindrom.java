@@ -17,7 +17,7 @@ public class palindrom{
             System.out.println("number "+num2+ " is palindrom");
         }
         else{
-            System.out.println("number "+number+" is\'n palindrom");
+            System.out.println("number "+number+" is not palindrom");
         }
 
     }
