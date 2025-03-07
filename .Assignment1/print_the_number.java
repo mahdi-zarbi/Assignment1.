@@ -1,5 +1,5 @@
 public class prime-number{
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args)  {
         for(int i=2; i<=100; i++){
             boolean number_is_Prime = true;
             for(int j=2; j<i; j++){
